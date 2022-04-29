@@ -1,0 +1,63 @@
+body {
+    background: #EEDCC4;
+    overflow-x: hidden;
+}
+
+.header_logo {
+    position: absolute;
+    top: 15px;
+    left: 30px;
+}
+
+.login_signup_btn {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.suggestion_box {
+    background-color: #FDF2E3;
+    border-radius: 20px;
+    box-shadow: 2.5px 5px;
+    height: 200px;
+}
+
+.marquee_tag {
+    background: #3A0514;
+}
+
+.love_and_happiness_image_area {
+    border: 60px solid #3A0514;
+}
+
+.main_heading_love_and_happiness {
+    box-shadow:
+        inset 0px 11px 8px -10px black,
+        inset 0px -11px 8px -10px black;
+}
+
+.love_and_happiness_area {
+    border-style: double;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+@media (max-width: 1200px) {
+    .love_and_happiness_image_area {
+        width: 100%;
+    }
+}
+
+.browse_profile_ul_tag {
+    list-style-type: none;
+}
+
+.browse_profile_options_heading,
+.browse_profile_options,
+.browse_profile_more_options {
+    display: inline-block;
+}
+
+.browse_profile_options {
+    border-right: 1px solid black;
+}
