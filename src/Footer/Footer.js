@@ -46,7 +46,7 @@ function Footer() {
                 </div >
                 <h5 className='text-center'>Spread the Word dulhn.com</h5>
                 <div className="footer_social_tags">
-                    <div className="row pb-3" style={{borderBottom:"1px solid orange"}}>
+                    <div className="row pb-3" style={{ borderBottom: "1px solid orange" }}>
                         <div className="col-2">
                             <i class="fa fa-facebook-f" style={{ fontSize: "26px" }}></i>
                         </div>
@@ -73,3 +73,7 @@ function Footer() {
     );
 }
 export default Footer;
+
+
+
+

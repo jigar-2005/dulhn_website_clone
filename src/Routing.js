@@ -10,7 +10,6 @@ function Routing() {
             <Router>
                 <Route exact path="/">
                     <Homepage />
-                    <Footer />
                 </Route>
                 <Route exact path="/profile_page">
                     <Profile />

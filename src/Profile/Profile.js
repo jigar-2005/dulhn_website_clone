@@ -38,7 +38,7 @@ function Profile() {
                 </div>
             </nav>
 
-            <h3 className='text-center mb-4' style={{marginTop:"70px"}}>My Profile</h3>
+            <h3 className='text-center mb-4' style={{ marginTop: "70px" }}>My Profile</h3>
 
             <div class="card mx-3 profile_data">
                 <div class="card-body">
@@ -329,3 +329,6 @@ function Profile() {
     );
 }
 export default Profile;
+
+
+
